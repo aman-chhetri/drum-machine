@@ -2,7 +2,7 @@
 
 This web application is designed to enhance your experience while working with Markdown. By combining React, TypeScript, JavaScript, and Vite, I've created a user-friendly tool that allows you to create, edit, and instantly preview Markdown content in real-time. 
 
-You can access the deployed application [here](https://mark-down-previewer-v1.netlify.app/).
+You can access the deployed application [here](https://drum-machine-v0.netlify.app/).
 
 ## Technologies used 🧑‍💻
 
